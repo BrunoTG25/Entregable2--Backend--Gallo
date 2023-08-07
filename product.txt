@@ -1,0 +1,1 @@
+[{"title":"Nuevo título","description":"Consola","price":17000,"thumbnail":"imagen no disponible","code":"1","stock":100,"id":1},{"title":"Ps4","description":"Consola","price":125000,"thumbnail":"imagen no disponible","code":"3","stock":3,"id":3}]
